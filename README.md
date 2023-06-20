@@ -27,7 +27,7 @@ I'm currently dedicated to learning the ins and outs of Full Stack Web Developme
 Here are a few projects I've been working on:
 
 - [Project 1]: A responsive website for a Flight Tracking company, showcasing their mission and services.
-- [Project 2]: In progress..
+- [Project 2]: A Portfolio website, which can be used to showcase your work, projects, and skills in an adorable and visually appealing manner.
 - [Project 3]: In progress..
 
 Feel free to explore my repositories to check out these projects and more!
