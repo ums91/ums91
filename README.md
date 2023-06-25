@@ -31,6 +31,7 @@ Here are a few projects I've been working on:
     <br>
 <img height="300" src="https://github.com/ums91/AirRadar24/blob/main/project2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     <br>
+  <br>
 - [Project 2]: A Portfolio website, which can be used to showcase your work, projects, and skills in an adorable and visually appealing manner. https://ums91.github.io/myportfoliowebsite/
 <img height="300" src="https://github.com/ums91/myportfoliowebsite/blob/main/project1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     <br>
@@ -45,7 +46,7 @@ I'm always excited to connect with fellow developers and industry professionals.
 
 - Email: omargoroo91@gmail.com
 -
-- GitHub: 
+- GitHub: https://github.com/ums91/
 
 Don't hesitate to reach out. Let's connect, learn from each other, and make a positive impact on the world of technology!
 
