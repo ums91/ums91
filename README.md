@@ -27,13 +27,15 @@ I'm currently dedicated to learning the ins and outs of Full Stack Web Developme
 Here are a few projects I've been working on:
 <p align="center" dir="auto">
 - [Project 1]: A responsive website for a Flight Tracking company, showcasing their mission and services. 
-  <br>
   https://ums91.github.io/AirRadar24/
+    <br>
 <img height="300" src="https://github.com/ums91/AirRadar24/blob/main/project2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - [Project 2]: A Portfolio website, which can be used to showcase your work, projects, and skills in an adorable and visually appealing manner. https://ums91.github.io/myportfoliowebsite/
 <img height="300" src="https://github.com/ums91/myportfoliowebsite/blob/main/project1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <br>
 - [Project 3]: In progress..
 </p>
+<br>
 Feel free to explore my repositories to check out these projects and more!
 
 ## Get in Touch
