@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello there! 👋 I'm Omer!
 
-I'm delighted to welcome you to my GitHub profile! I'm a passionate individual with a background in Electronics and Communication Engineering and a strong desire to dive into the world of Full Stack Web Development.
+I'm delighted to welcome you to my GitHub profile! I'm a passionate individual, from Kashmir India, with a background in Electronics and Communication Engineering and a strong desire to dive into the world of Full Stack Web Development.
 
 - 🔭 I’m currently working on mastering Full Stack Web Development.
 - 🌱 I’m currently learning various technologies and frameworks related to web development.
