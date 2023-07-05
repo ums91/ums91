@@ -87,20 +87,20 @@ Don't hesitate to reach out. Let's connect, learn from each other, and make a po
 <br>
 
 
-<a href="https://twitter.com/027abhishek" target="blank">
-  <img width="220px" align="left" src="https://img.shields.io/twitter/follow/027abhishek?logo=twitter&style=for-the-badge" alt="027abhishek" />
+<a href="https://twitter.com/ums91" target="blank">
+  <img width="220px" align="left" src="https://img.shields.io/twitter/follow/ums91?logo=twitter&style=for-the-badge" alt="ums91" />
 </a>
 
-<a href="https://github.com/abhishekkr27">
-  <img align="left" alt="abhishek's Github" width="95px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+<a href="https://github.com/ums91">
+  <img align="left" alt="ums91's Github" width="95px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/abhishek-kumar-072a23203/">
-  <img align="left" alt="abhishek's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/omer-goroo-32616a144/">
+  <img align="left" alt="ums91's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/_abhishek_kumar27/">
-  <img align="left" alt="abhishek's Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/ums91/">
+  <img align="left" alt="ums91's Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br>
