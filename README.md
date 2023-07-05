@@ -79,14 +79,6 @@ Feel free to explore my repositories to check out these projects and more!
 
 I'm always excited to connect with fellow developers and industry professionals. If you have any questions, collaboration ideas, or just want to say hello, you can reach me via:
 
-- Email: omargoroo91@gmail.com
--
-- GitHub: https://github.com/ums91/
-
-Don't hesitate to reach out. Let's connect, learn from each other, and make a positive impact on the world of technology!
-<br>
-<br>
-
 
 <a href="https://twitter.com/ums91" target="blank">
   <img width="220px" align="left" src="https://img.shields.io/twitter/follow/ums91?logo=twitter&style=for-the-badge" alt="ums91" />
@@ -104,7 +96,10 @@ Don't hesitate to reach out. Let's connect, learn from each other, and make a po
   <img align="left" alt="ums91's Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+
+Don't hesitate to reach out. Let's connect, learn from each other, and make a positive impact on the world of technology!
 <br>
+
 <br>
 ## Thank You!
 
