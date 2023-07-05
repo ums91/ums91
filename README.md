@@ -87,15 +87,15 @@ I'm always excited to connect with fellow developers and industry professionals.
 </a>
 
 <a href="https://github.com/ums91">
-  <img alt="ums91's Github" width="95px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img alt="ums91's Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/omer-goroo-32616a144/">
-  <img alt="ums91's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img alt="ums91's Linkdein" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/ums91/">
-  <img alt="ums91's Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img alt="ums91's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br>
 
