@@ -83,7 +83,7 @@ I'm always excited to connect with fellow developers and industry professionals.
 
 
 <a href="https://twitter.com/ums91" target="blank">
-  <img width="220px" src="https://img.shields.io/twitter/follow/ums91?logo=twitter&style=for-the-badge" alt="ums91" />
+  <img src="https://img.shields.io/twitter/follow/ums91?logo=twitter&style=for-the-badge" alt="ums91" />
 </a>
 
 <a href="https://github.com/ums91">
