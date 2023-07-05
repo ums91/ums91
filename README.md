@@ -85,7 +85,7 @@ Feel free to explore my repositories to check out these projects and more!
 <div class="stats">
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ums91&layout=compact&show_icons=true&theme=algolia&border_radius=20" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ums91&layout=compact&show_icons=true&no-bg=true&theme=algolia&border_radius=20" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ums91&show_icons=true&theme=algolia&border_radius=20" /> </p>
 
