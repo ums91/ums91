@@ -45,9 +45,6 @@ Feel free to explore my repositories to check out these projects and more!
 
 - 🔭 I’m currently working on **Weather App**
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ums91" alt="ums91" /></a> </p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,9 +68,12 @@ Feel free to explore my repositories to check out these projects and more!
 <p><img align="center" src="https://streak-stats.demolab.com?user=ums91&count_private=true&theme=algolia&border_radius=20" /> </p>
 
 </div>
+<br>
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ums91" alt="ums91" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=ums91&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
+<br>
 ## Get in Touch
 
 I'm always excited to connect with fellow developers and industry professionals. If you have any questions, collaboration ideas, or just want to say hello, you can reach me via:
