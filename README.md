@@ -15,7 +15,7 @@ I'm delighted to welcome you to my GitHub profile! I'm a passionate individual, 
 - 💬 Ask me about electronics, communication systems, and my journey transitioning into web development.
 - 📫 You can reach me via email at omargoroo91@gmail.com.
 
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://github.com/ums91/ums91/blob/main/code.gif)" /> 
+<img align="right" alt="Coding" width="400" src="https://github.com/ums91/ums91/blob/main/code.gif" /> 
 ## About Me
 
 With a solid foundation in Electronics and Communication Engineering, I have a strong analytical mindset and a passion for building innovative solutions. However, I found myself drawn towards the world of web development, captivated by its creative aspects and its potential to make a tangible impact on people's lives.
