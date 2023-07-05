@@ -71,7 +71,7 @@ Feel free to explore my repositories to check out these projects and more!
 <br>
 <h3>🏆 GitHub Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ums91" alt="ums91" /></a> </p>
-<a href="https://github-profile-trophy.vercel.app/?username=ums91&theme=radical&no-frame=false&no-bg=true&margin-w=4" /> </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=ums91&theme=radical&no-frame=false&no-bg=true&margin-w=4" /> </a>
 
 <br>
 ## Get in Touch
