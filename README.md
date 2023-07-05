@@ -64,18 +64,20 @@ Feel free to explore my repositories to check out these projects and more!
 <br>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <br>
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" /> 
 
 <div class="stats">
+  
+<!-- compact programming languages layout -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ums91&layout=compact&show_icons=true&theme=algolia&border_radius=20" /> </p>
 
-![ums91's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ums91&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ums91&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" /> </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ums91&count_private=true&theme=algolia&border_radius=20)
+<p><img align="center" src="https://streak-stats.demolab.com?user=ums91&count_private=true&theme=algolia&border_radius=20" /> </p>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ums91&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ums91&show_icons=true&locale=en&layout=compact" alt="ums91" /></p>
