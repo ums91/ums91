@@ -43,17 +43,12 @@ Here are a few projects I've been working on:
 <br>
 Feel free to explore my repositories to check out these projects and more!
 
-
+- 🔭 I’m currently working on **Weather App**
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ums91" alt="ums91" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ums91" target="blank"><img src="https://img.shields.io/twitter/follow/ums91?logo=twitter&style=for-the-badge" alt="ums91" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ums91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ums91" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:block;">
@@ -77,11 +72,6 @@ Feel free to explore my repositories to check out these projects and more!
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ums91&show_icons=true&locale=en&layout=compact" alt="ums91" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ums91&show_icons=true&locale=en" alt="ums91" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ums91&" alt="ums91" /></p>
 
 
 ## Get in Touch
@@ -93,7 +83,20 @@ I'm always excited to connect with fellow developers and industry professionals.
 - GitHub: https://github.com/ums91/
 
 Don't hesitate to reach out. Let's connect, learn from each other, and make a positive impact on the world of technology!
+<br>
+<p align="left"> <a href="https://twitter.com/ums91" target="blank"><img src="https://img.shields.io/twitter/follow/ums91?logo=twitter&style=for-the-badge" alt="ums91" /></a> </p>
+<a href="https://github.com/ums91">
+  <img align="left" alt="ums91's Github" width="95px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
 
+<a href="https://www.linkedin.com/in/omer-goroo-32616a144/">
+  <img align="left" alt="ums91's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ums91/">
+  <img align="left" alt="ums91's Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br>
 ## Thank You!
 
 Thank you for taking the time to visit my GitHub profile and learn a bit about me. I look forward to connecting with you and sharing this coding journey together. Let's create something amazing!
