@@ -2,7 +2,9 @@
 ums91/ums91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github.com/ums91/ums91/blob/main/header_.png
+
+<img src="https://github.com/ums91/ums91/blob/main/header_.png" /> 
+
 ## Hello there! 👋 I'm Omer!
 
 I'm delighted to welcome you to my GitHub profile! I'm a passionate individual, from Kashmir India, with a background in Electronics and Communication Engineering and a strong desire to dive into the world of Full Stack Web Development.
