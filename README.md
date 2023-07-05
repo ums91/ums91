@@ -110,4 +110,6 @@ Thank you for taking the time to visit my GitHub profile and learn a bit about m
 <br>
 <br>
 Hey, amazing followers! ☕️ If you enjoy my content and would like to support me, consider buying me a coffee. Your generosity fuels my creativity and helps me continue doing what I love. Thank you! 🙏
-<a href="https://www.buymeacoffee.com/ums91" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
+
+<a href="https://www.buymeacoffee.com/ums91" target="_blank"><img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
