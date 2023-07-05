@@ -68,15 +68,12 @@ Feel free to explore my repositories to check out these projects and more!
 
 <div class="stats">
   
-<!-- compact programming languages layout -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ums91&layout=compact&show_icons=true&theme=algolia&border_radius=20" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ums91&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ums91&show_icons=true&theme=algolia&border_radius=20" /> </p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=ums91&count_private=true&theme=algolia&border_radius=20" /> </p>
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
 
 </div>
 
