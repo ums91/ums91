@@ -85,7 +85,7 @@ I'm always excited to connect with fellow developers and industry professionals.
 Don't hesitate to reach out. Let's connect, learn from each other, and make a positive impact on the world of technology!
 <br>
 <a href="https://twitter.com/ums91" target="blank">
-  <img width="220px" align="left" src="https://img.shields.io/twitter/follow/027abhishek?logo=twitter&style=for-the-badge" alt="ums91" />
+  <img width="220px" align="left" src="https://img.shields.io/twitter/follow/ums91?logo=twitter&style=for-the-badge" alt="ums91" />
 </a>
 <a href="https://github.com/ums91">
   <img align="left" alt="ums91's Github" width="95px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
