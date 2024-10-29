@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello there! 👋 I'm Omer!
 
-I'm delighted to welcome you to my GitHub profile! I'm a passionate individual, from Kashmir India, with a background in Electronics and Communication Engineering and a strong desire to dive into the world of Full Stack Web Development. As a nature enthusiast, I find solace and inspiration in the great outdoors. Whether it's hiking through lush forests, camping under the starry sky, or capturing the beauty of landscapes through photography, nature fuels my creativity and reminds me of the wonders of our world.
+I'm delighted to welcome you to my GitHub profile! I'm a passionate individual, from Kashmir India, with a background in Electronics and Communication Engineering and a strong desire to dive into the world of Cybersecurity and Full Stack Web Development. As a nature enthusiast, I find solace and inspiration in the great outdoors. Whether it's hiking through lush forests, camping under the starry sky, or capturing the beauty of landscapes through photography, nature fuels my creativity and reminds me of the wonders of our world.
 
-- 🔭 I’m currently working on mastering Full Stack Web Development.
+- 🔭 I’m currently working on mastering Application and product security.
 - 🌱 I’m currently learning various technologies and frameworks related to web development.
 - 💼 I hold a Master's degree in Electronics and Communication Engineering.
 - 💻 I'm enthusiastic about coding, problem-solving, and exploring new technologies.
