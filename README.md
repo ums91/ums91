@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ![Open Issues](https://img.shields.io/github/issues/ums91/Wolfpack?label=Open%20Issues)
 ![Contributions](https://badgen.net/badge/Contributions/2024/green)  
 
-<img src="https://github.com/ums91/umsiptv/blob/main/header_.png" /> 
+<img src="https://github.com/ums91/ums91/blob/main/header_.png" /> 
 
 ## Hello there! 👋 I'm Omer!
 
