@@ -3,24 +3,14 @@ ums91/ums91 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 # Welcome to My GitHub Profile!
-
-![Profile views](https://komarev.com/ghpvc/?username=ums91&color=blue)
   ![Pull Requests](https://img.shields.io/github/issues-pr/ums91/Wolfpack?label=Pull%20Requests)
-
-- **Commits**:  
-  ![Commits](https://img.shields.io/github/commit-activity/m/ums91/Wolfpack?label=Commits)
-
-- **Repositories**:  
-  ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-brightgreen)
+(https://img.shields.io/github/commit-activity/m/ums91/Wolfpack?label=Commits)
+(https://img.shields.io/badge/Public%20Repos-10-brightgreen)
 
 - **Open Issues**:  
-  ![Open Issues](https://img.shields.io/github/issues/ums91/CISA_BOT?label=Open%20Issues)
-
-- **Contributions in 2024**:  
-  ![Contributions](https://badgen.net/badge/Contributions/2024/green)
-
-- **Scorecard Security**:  
-  ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ums91/Wolfpack/badge)
+  ![Open Issues](https://img.shields.io/github/issues/ums91/Wolfpack?label=Open%20Issues)
+(https://badgen.net/badge/Contributions/2024/green)  
+(https://api.securityscorecards.dev/projects/github.com/ums91/Wolfpack/badge)
 
 <img src="https://github.com/ums91/umsiptv/blob/main/header_.png" /> 
 
