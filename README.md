@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 # Welcome to My GitHub Profile!
 
 ![Profile views](https://komarev.com/ghpvc/?username=ums91&color=blue)
-
-- **Pull Requests**:  
   ![Pull Requests](https://img.shields.io/github/issues-pr/ums91/Wolfpack?label=Pull%20Requests)
 
 - **Commits**:  
