@@ -11,34 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to My GitHub Profile!
 
-![Profile views](https://komarev.com/ghpvc/?username=ums91&color=blue)
-
-## My Stats
-
-- **GitHub Stats**:  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ums91&show_icons=true&theme=radical)
-
-- **Contribution Graph**:  
-  [![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ums91&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-- **Pull Requests**:  
-  ![Pull Requests](https://img.shields.io/github/issues-pr/ums91/ums91?label=Pull%20Requests)
-
-- **Commits**:  
-  ![Commits](https://img.shields.io/github/commit-activity/m/ums91/ums91?label=Commits)
-
-- **Repositories**:  
-  ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-brightgreen)
-
-- **Open Issues**:  
-  ![Open Issues](https://img.shields.io/github/issues/ums91/ums91?label=Open%20Issues)
-
-- **Contributions in 2024**:  
-  ![Contributions](https://badgen.net/badge/Contributions/2024/green)
-
-- **Scorecard Security**:  
-  ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ums91/ums91/badge)
-
+[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ums91&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 # Welcome to My GitHub Profile!
 <img src="https://github.com/ums91/ums91/blob/main/header_.png" /> 
