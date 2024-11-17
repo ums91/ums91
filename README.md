@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   ![Contributions](https://badgen.net/badge/Contributions/2024/green)
 
 - **Scorecard Security**:  
-  ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ums91/ums91/badge)
+  ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ums91/Wolfpack/badge)
 
 <img src="https://github.com/ums91/umsiptv/blob/main/header_.png" /> 
 
