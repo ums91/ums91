@@ -6,22 +6,17 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ums91&color=blue)
 
-## My Stats
-
-- **GitHub Stats**:  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ums91&show_icons=true&theme=radical)
-
 - **Pull Requests**:  
-  ![Pull Requests](https://img.shields.io/github/issues-pr/ums91/ums91?label=Pull%20Requests)
+  ![Pull Requests](https://img.shields.io/github/issues-pr/ums91/Wolfpack?label=Pull%20Requests)
 
 - **Commits**:  
-  ![Commits](https://img.shields.io/github/commit-activity/m/ums91/ums91?label=Commits)
+  ![Commits](https://img.shields.io/github/commit-activity/m/ums91/Wolfpack?label=Commits)
 
 - **Repositories**:  
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-brightgreen)
 
 - **Open Issues**:  
-  ![Open Issues](https://img.shields.io/github/issues/ums91/ums91?label=Open%20Issues)
+  ![Open Issues](https://img.shields.io/github/issues/ums91/CISA_BOT?label=Open%20Issues)
 
 - **Contributions in 2024**:  
   ![Contributions](https://badgen.net/badge/Contributions/2024/green)
@@ -29,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - **Scorecard Security**:  
   ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ums91/ums91/badge)
 
-<img src="https://github.com/ums91/ums91/blob/main/header_.png" /> 
+<img src="https://github.com/ums91/umsiptv/blob/main/header_.png" /> 
 
 ## Hello there! 👋 I'm Omer!
 
