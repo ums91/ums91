@@ -7,12 +7,6 @@ You can click the Preview link to take a look at your changes.
 ![Public Repo's](https://img.shields.io/badge/Public%20Repos-10-brightgreen) 
 ![Open Issues](https://img.shields.io/github/issues/ums91/Wolfpack?label=Open%20Issues)
 ![Contributions](https://badgen.net/badge/Contributions/2024/green)  
-
-
-# Welcome to My GitHub Profile!
-
-[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ums91&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 # Welcome to My GitHub Profile!
 <img src="https://github.com/ums91/ums91/blob/main/header_.png" /> 
 
